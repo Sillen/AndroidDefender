@@ -1,3 +1,4 @@
 *.class
 .svn
 .DS_Store
+R.java
